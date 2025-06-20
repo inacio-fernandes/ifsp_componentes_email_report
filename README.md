@@ -161,7 +161,7 @@ ifsp_componentes_email_report/
 │   ├── relatorio.csv
 │   └── relatorio.xlsx
 ├── .env                          # Configurações de ambiente
-├── env.example                   # Exemplo de configuração
+├── .env.example                   # Exemplo de configuração
 ├── package.json                  # Dependências e scripts
 ├── tsconfig.json                 # Configuração TypeScript
 └── README.md                     # Esta documentação
