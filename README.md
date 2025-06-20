@@ -55,7 +55,7 @@ O projeto utiliza o Padrão de Interface de Componente através de:
 
 1. **Clone o repositório**
    ```bash
-   git clone [URL_DO_REPOSITORIO]
+   git clone https://github.com/inacio-fernandes/ifsp_componentes_email_report.git
    cd ifsp_componentes_email_report
    ```
 
