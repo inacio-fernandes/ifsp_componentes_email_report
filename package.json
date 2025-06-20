@@ -1,5 +1,5 @@
 {
-  "name": "repost-email-service",
+  "name": "report-email-service",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
